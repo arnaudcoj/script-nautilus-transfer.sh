@@ -5,4 +5,8 @@ Limitation de l'envoi à 5Go (limite de transfer.sh)
 
 Vous le mettez dans le dossier ~/.local/share/nautilus/scripts (nautilus ou nemo ou...) puis le rendez exécutable et voilà !
 
+Intégration en tant qu'actions :
+Nemo - Fusionnez le dossier nemo avec celui présent dans ~/.local/share/
+Nautilus - coming soon...
+
 Auteur : Arnaud Cojez
