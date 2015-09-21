@@ -1,0 +1,8 @@
+[Nemo Action]
+Active=true
+Name=To transfer.sh
+Comment=Les fichiers sélectionnés seront partagés via transfer.sh
+Exec=<transfer.sh %F>
+Selection=notnone
+Extensions=nodirs
+Dependencies=zenity;curl;
