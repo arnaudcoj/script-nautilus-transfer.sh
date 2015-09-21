@@ -8,7 +8,7 @@ Vous le mettez dans le dossier ~/.local/share/nautilus/scripts (nautilus ou nemo
 
 Intégration en tant qu'actions :
 
-Nemo - Fusionnez le dossier nemo avec celui présent dans ~/.local/share/
+Nemo - Copiez le script transfer.sh dans le dossier nemo/actions puis fusionnez le dossier nemo/ avec celui présent dans ~/.local/share/
 
 Nautilus - coming soon...
 
